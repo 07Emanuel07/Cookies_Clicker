@@ -5,10 +5,10 @@ This Python script automates the popular web-based game Cookie Clicker using Sel
 
 **Web Automation with Selenium:**
   - The project utilizes the Selenium library to automate browser interactions, allowing the script to click on the cookie and manage upgrades without manual input.
-  - 
+
 **Dynamic Element Interaction:**
   - The script interacts with various elements on the Cookie Clicker webpage, including buttons for accepting cookies and selecting the language, as well as the main cookie button and upgrade options.
-  - 
+
 **Timed Actions:**
   - The script includes timed actions to manage the frequency of cookie clicks and upgrade purchases, optimizing gameplay over a specified duration.
 
